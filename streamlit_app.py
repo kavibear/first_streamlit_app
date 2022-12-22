@@ -1,5 +1,6 @@
 import streamlit
 import pandas
+import skimage
 streamlit.title('My parents New Healthy Diner')
 
   
